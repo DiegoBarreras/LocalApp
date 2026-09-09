@@ -1,6 +1,6 @@
 # Proyecto Integrador - Local App
 
-## 📋 Ficha Técnica
+## Ficha Técnica
 
 | Componente | Detalle / Versión |
 | :--- | :--- |
@@ -11,5 +11,5 @@
 | **Sistema Operativo (Dev)** | Fedora Linux / Linux Mint / Windows |
 | **Control de Versiones** | Git / GitHub |
 
-## 🚀 Descripción
+## Descripción
 Local es una red social basada en conexiones reales. Únicamente podrás agregar a personas por medio del NFC de tu celular. Surge como una alternativa a otras redes abusivas, que sobreponen la monetización a la salud y experiencia del usuario.
