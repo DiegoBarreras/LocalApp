@@ -22,11 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
 rootProject.name = "holaMundo"
 include(":app")
-=======
-rootProject.name = "LocalApp"
-include(":app")
- 
->>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17

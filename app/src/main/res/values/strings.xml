@@ -1,7 +1,3 @@
 <resources>
-<<<<<<< HEAD
     <string name="app_name">holaMundo</string>
-=======
-    <string name="app_name">LocalApp</string>
->>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
 </resources>
