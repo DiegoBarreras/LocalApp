@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.HolaMundo" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.LocalApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
 </resources>

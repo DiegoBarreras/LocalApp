@@ -10,12 +10,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.HolaMundo">
+=======
+        android:theme="@style/Theme.LocalApp">
+>>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.HolaMundo"
+=======
+            android:theme="@style/Theme.LocalApp"
+>>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

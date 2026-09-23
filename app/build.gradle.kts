@@ -4,13 +4,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.holamundo"
+=======
+    namespace = "com.example.localapp"
+>>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.holamundo"
+=======
+        applicationId = "com.example.localapp"
+>>>>>>> 9faf2dfbc795d726099dc2998ada1f8e24b13b17
         minSdk = 24
         targetSdk = 37
         versionCode = 1
